@@ -3,6 +3,7 @@
   grid-template-columns: 150px 1fr 150px;
   height: 100px;
   padding: 0 40px;
+  background-color: black;
 }
 
 .header-left {
@@ -23,14 +24,13 @@
   justify-self: start;
   align-items: center;
   font-size: 14px;
-  font-family: "Verdana, Geneva, Tahoma, sans-serif";
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: 700;
-  color: white;
+  color: black;
   width: 136px;
   cursor: pointer;
   text-align: center;
-  background-color: #000;
-  border-radius: 9999999px;
+  background-color: white;
   height: 48px;
   align-self: center;
 }

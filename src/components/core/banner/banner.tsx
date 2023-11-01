@@ -30,15 +30,16 @@ export default component$(() => {
         Over 100 artist al ready earning!
       </div>
       <h1 class={styles["banner-title"]}>
-        Cartooning Just Got a Lot Cooler (And Lucrative)!
+        Turn your brand into merch and get money (for free)!
       </h1>
       <div
         style={{
           fontSize: "20px",
           lineHeight: "36px",
           fontWeight: "500",
-          color: "#1B1B1B",
+          color: "white",
           textAlign: "center",
+          background: "transparent",
         }}
       >
         Transform your art into earnings
@@ -46,8 +47,8 @@ export default component$(() => {
       <Link
         href={process.env["VITE_URL_APP_DASHBOARD"] + "/register"}
         style={{
-          backgroundColor: "#1B1B1B",
-          color: "white",
+          backgroundColor: "white",
+          color: "#1B1B1B",
           padding: "24px",
           fontSize: "14px",
           fontWeight: "600",
@@ -55,7 +56,7 @@ export default component$(() => {
           marginTop: "24px",
         }}
       >
-        More info
+        Learn How
       </Link>
     </div>
   );

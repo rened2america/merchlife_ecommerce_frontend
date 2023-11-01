@@ -1,8 +1,7 @@
 import { component$ } from "@builder.io/qwik";
-import logo from "../../../../public/logo/logo_black.webp";
+import logo from "../../../../public/logo/Logo_rgb.png";
 
 export default component$(() => {
-  console.log(logo);
   return (
     <img
       style={{ cursor: "pointer" }}

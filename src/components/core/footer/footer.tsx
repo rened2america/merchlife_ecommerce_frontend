@@ -64,7 +64,7 @@ export const Footer = component$(() => {
         <div class={styles["footer-top-four"]}>
           <div class={styles["footer-top-four-header"]}>Contact</div>
           <div class={styles["footer-top-four-content"]}>
-            <div>chi@politicozen.com</div>
+            <div>info@merchlife.com</div>
             <div>+1 408-835-0739</div>
           </div>
         </div>
@@ -114,7 +114,7 @@ export const Footer = component$(() => {
       </div>
       <div class={styles["footer-bottom"]}>
         <div class={styles["footer-bottom-left"]}>
-          Copyright © 2023 Politicozen. All Rights Reserved.
+          Copyright © 2023 Merchlife. All Rights Reserved.
         </div>
         <div class={styles["footer-bottom-right"]}>
           <div

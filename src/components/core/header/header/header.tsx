@@ -18,7 +18,7 @@ export default component$(() => {
                   width: "80%",
                   height: "120px",
                   top: "80px",
-                  backgroundColor: "#f1f1f1",
+                  backgroundColor: "white",
                   display: "grid",
                   justifyItems: "center",
                   padding: "8px 8px",
@@ -32,7 +32,7 @@ export default component$(() => {
               nav("/artists");
             }}
           >
-            Artists store
+            Stores
           </div>
           <div
             onClick$={() => {
@@ -45,12 +45,18 @@ export default component$(() => {
             onClick$={() => {
               nav("/how-it-works");
             }}
+            style={{
+              color: "black",
+            }}
           >
             How it works
           </div>
         </div>
         <div class={styles["header-menu-mobile"]}>
           <LuMenu
+            style={{
+              color: "white",
+            }}
             onClick$={() => {
               openMenu.value = !openMenu.value;
             }}
@@ -98,6 +104,7 @@ export default component$(() => {
               style={{
                 cursor: "pointer",
                 listStyleType: "none",
+                color: "white",
               }}
               onClick$={() => {
                 nav("/search/?q=");
@@ -118,12 +125,13 @@ export default component$(() => {
             <li
               style={{
                 cursor: "pointer",
+                color: "white",
               }}
               onClick$={() => {
                 nav("/artists");
               }}
             >
-              Artists store
+              Stores
             </li>
           </ul>
         </nav>

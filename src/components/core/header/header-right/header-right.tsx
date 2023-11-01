@@ -37,7 +37,7 @@ export default component$(() => {
           navigation("/cart");
         }}
         style={{
-          color: "#303538",
+          color: "white",
           fontSize: "24px",
           display: "grid",
           position: "relative",

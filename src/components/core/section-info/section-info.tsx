@@ -74,7 +74,7 @@ export default component$(() => {
             textAlign: "center",
           }}
         >
-          They sell on politicozen
+          They sell on merchlife
         </div>
         <div
           // style={{
