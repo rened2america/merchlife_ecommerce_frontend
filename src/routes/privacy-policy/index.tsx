@@ -18,7 +18,7 @@ export default component$(() => {
           padding: "24px 0",
         }}
       >
-        Privacy Policy for PoliticoZen
+        Privacy Policy for Merchlife
       </div>
       <div
         style={{
@@ -37,10 +37,10 @@ export default component$(() => {
         <div class="et_pb_text_inner">
           <p>
             <span style="font-weight: 400;">
-              At PoliticoZen, accessible from www.politicozen.com, one of our
-              main priorities is the privacy of our visitors. This Privacy
-              Policy document contains types of information collected and
-              recorded by PoliticoZen and how we use it.
+              At Merchlife, accessible from www.merchlife.com, one of our main
+              priorities is the privacy of our visitors. This Privacy Policy
+              document contains types of information collected and recorded by
+              Merchlife and how we use it.
             </span>
           </p>
           <p>
@@ -53,7 +53,7 @@ export default component$(() => {
             <span style="font-weight: 400;">
               This Privacy Policy applies only to our online activities and is
               valid for visitors to our website about the information they share
-              or collect in PoliticoZen. This policy does not apply to any
+              or collect in Merchlife. This policy does not apply to any
               information collected offline or via channels other than this
               website.
             </span>
@@ -138,7 +138,7 @@ export default component$(() => {
           </p>
           <p>
             <span style="font-weight: 400;">
-              PoliticoZen follows a standard procedure of using log files. These
+              Merchlife follows a standard procedure of using log files. These
               files log visitors when they visit websites. All hosting companies
               do this and are a part of hosting services’ analytics. The
               information collected by log files includes internet protocol (IP)
@@ -155,7 +155,7 @@ export default component$(() => {
           </p>
           <p>
             <span style="font-weight: 400;">
-              Like any other website, PoliticoZen uses ‘cookies.’ These cookies
+              Like any other website, Merchlife uses ‘cookies.’ These cookies
               store information, including visitors’ preferences and the pages
               on the website that the visitor accessed or visited. The data is
               used to optimize the users’ experience by customizing our web page
@@ -201,14 +201,14 @@ export default component$(() => {
           <p>
             <span style="font-weight: 400;">
               You may consult this list to find the Privacy Policy for each of
-              the advertising partners of PoliticoZen.
+              the advertising partners of Merchlife.
             </span>
           </p>
           <p>
             <span style="font-weight: 400;">
               Third-party ad servers or ad networks uses technologies like
               cookies, JavaScript, or Web Beacons that are used in their
-              respective advertisements and links that appear on PoliticoZen,
+              respective advertisements and links that appear on Merchlife,
               which are sent directly to users’ browser. They automatically
               receive your IP address when this occurs. These technologies are
               used to measure the effectiveness of their advertising campaigns
@@ -218,8 +218,8 @@ export default component$(() => {
           </p>
           <p>
             <span style="font-weight: 400;">
-              Note that PoliticoZen has no access to or control over these
-              cookies used by third-party advertisers.
+              Note that Merchlife has no access to or control over these cookies
+              used by third-party advertisers.
             </span>
           </p>
           <p>
@@ -227,8 +227,8 @@ export default component$(() => {
           </p>
           <p>
             <span style="font-weight: 400;">
-              PoliticoZen’s Privacy Policy does not apply to other advertisers
-              or websites. Thus, we are advising you to consult the respective
+              Merchlife Privacy Policy does not apply to other advertisers or
+              websites. Thus, we are advising you to consult the respective
               Privacy Policies of these third-party ad servers for more detailed
               information. It may include their practices and instructions about
               opting out of specific options.
@@ -348,7 +348,7 @@ export default component$(() => {
           </p>
           <p>
             <span style="font-weight: 400;">
-              PoliticoZen does not knowingly collect any Personal Identifiable
+              Merchlife does not knowingly collect any Personal Identifiable
               Information from children under 13. Suppose you think your child
               provided this information on our website. In that case, we
               strongly encourage you to contact us immediately, and we will do

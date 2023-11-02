@@ -50,7 +50,7 @@ export default component$(() => {
               placeItems: "center",
             }}
           >
-            We’re excited to announce that PoliticoZen is now available on more
+            We’re excited to announce that Merchlife is now available on more
             platforms than ever before!. Don’t have a way to market and sell
             your artwork? We got you!
           </div>
@@ -108,7 +108,7 @@ export default component$(() => {
             }}
           >
             We know how difficult it is to be an artist and get your artwork
-            across. Thanks to PoliticoZen, you may never need to worry about it
+            across. Thanks to Merchlife, you may never need to worry about it
             ever again. Just create and we will do the rest.
           </div>
           <Image

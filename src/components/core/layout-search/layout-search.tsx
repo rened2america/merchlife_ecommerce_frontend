@@ -5,7 +5,7 @@ import Card from "../card/card";
 import { Link } from "@builder.io/qwik-city";
 
 export default component$((props: any) => {
-  console.log("va", props.result.value.products);
+  console.log("props.result.value.", props.result.value);
   return (
     <div class={style["search-container"]}>
       <Filter />
@@ -15,7 +15,13 @@ export default component$((props: any) => {
               return (
                 <Link
                   key={product.id}
-                  href={`/product/${product.id}/?variant=white&size=S`}
+                  href={`/product/${product.id}/?variant=white&size=${
+                    product.types.length > 0
+                      ? product?.types[0]?.value === "Mug"
+                        ? "11 oz"
+                        : "S"
+                      : "S"
+                  }`}
                 >
                   <Card product={product} />
                 </Link>

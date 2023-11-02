@@ -36,7 +36,7 @@ export default component$(() => {
             padding: "16px 0",
           }}
         >
-          PoliticoZen is a platform where political cartoonists will be able to
+          Merchlife is a platform where political cartoonists will be able to
           upload their art to be sold on multiple shopping platforms in the USA
           and in 20 countries around the globe plus the social media e-stores.
         </div>
@@ -129,7 +129,7 @@ export default component$(() => {
               padding: "16px 0",
             }}
           >
-            PoliticoZen is a one-stop shop for people who want to sell their
+            Merchlife is a one-stop shop for people who want to sell their
             artwork online, whether they're selling physical or digital goods.
             We can help you set up an online store that fits your business's
             style and personality, whether you're running a small Etsy shop or a

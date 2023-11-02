@@ -5,13 +5,13 @@ import Card from "~/components/core/card/card";
 import { LuTwitter, LuFacebook, LuInstagram } from "@qwikest/icons/lucide";
 import Pagination from "~/components/primitives/pagination/pagination";
 
-export const artist = routeLoader$(async ({ query, params }) => {
+export const useArtist = routeLoader$(async ({ query, params }) => {
   const page = query.get("page") || "";
   const { artist } = params;
   // @ts-ignore
   const url = new URL(
     `/api/1/artist/store/${artist}/?page=${page}`,
-    process.env["VITE_URL_BACKEND"]
+    import.meta.env.PUBLIC_URL_BACKEND
   );
   const res = await fetch(url);
   const artistResult = (await res.json()) as any;
@@ -20,7 +20,7 @@ export const artist = routeLoader$(async ({ query, params }) => {
 });
 
 export default component$(() => {
-  const getArtist = artist();
+  const getArtist = useArtist();
   console.log(getArtist);
   return (
     <div>

@@ -18,7 +18,7 @@ export default component$(() => {
           padding: "24px 0",
         }}
       >
-        PoliticoZen Terms of Service
+        Merchlife Terms of Service
       </div>
       <div
         style={{
@@ -38,17 +38,17 @@ export default component$(() => {
         <div>
           The materials contained in this Website are protected by copyright and
           trademark law. By accessing this Website, accessible from
-          www.politicozen.com, you agree to be bound by these Terms and
-          Conditions of Use. You agree that you are responsible for the
-          agreement with any applicable local laws. If you disagree with these
-          terms, you are prohibited from accessing this site.
+          www.merchlife.com, you agree to be bound by these Terms and Conditions
+          of Use. You agree that you are responsible for the agreement with any
+          applicable local laws. If you disagree with these terms, you are
+          prohibited from accessing this site.
         </div>
         <div>2.-Use a License</div>
         <div>
           Permission is granted to temporarily download one copy of the
-          materials on PoliticoZen’s Website for personal, non-commercial
-          transitory viewing only. This is the grant of a license, not a
-          transfer of title, and under this license, you may not:
+          materials on Merchlife Website for personal, non-commercial transitory
+          viewing only. This is the grant of a license, not a transfer of title,
+          and under this license, you may not:
           <ul>
             <li>
               <span style="font-weight: 400;">
@@ -63,8 +63,8 @@ export default component$(() => {
             </li>
             <li>
               <span style="font-weight: 400;">
-                Attempt to reverse engineer any software contained on
-                PoliticoZen’s Website;
+                Attempt to reverse engineer any software contained on Merchlife
+                Website;
               </span>
             </li>
             <li>
@@ -80,7 +80,7 @@ export default component$(() => {
               </span>
             </li>
           </ul>
-          This will let PoliticoZen terminate upon violations of any of these
+          This will let Merchlife terminate upon violations of any of these
           restrictions. Upon termination, your viewing right will also be
           removed, and you should destroy any downloaded materials in your
           possession, whether it is printed or electronic format. These Terms of
@@ -89,18 +89,18 @@ export default component$(() => {
         </div>
         <div>3.-Disclaimer</div>
         <div>
-          All the materials on PoliticoZen’s Website are provided “as is.”
-          PoliticoZen makes no warranties, whether expressed or implied,
-          negating all other warranties. Furthermore, PoliticoZen does not make
-          any representations concerning the accuracy or reliability of the use
-          of the materials on its Website or otherwise relating to such
-          materials or any sites linked to this Website.
+          All the materials on Merchlife Website are provided “as is.” Merchlife
+          makes no warranties, whether expressed or implied, negating all other
+          warranties. Furthermore, Merchlife does not make any representations
+          concerning the accuracy or reliability of the use of the materials on
+          its Website or otherwise relating to such materials or any sites
+          linked to this Website.
         </div>
         <div>4.-Limitations</div>
         <div>
-          PoliticoZen or its suppliers will not be held accountable for any
+          Merchlife or its suppliers will not be held accountable for any
           damages that will arise with the use or inability to use the materials
-          on PoliticoZen’s Website, even if PoliticoZen or an authorized
+          on Merchlife Website, even if Merchlife or an authorized
           representative of this Website has been notified, orally or written,
           of the possibility of such damage. Some jurisdiction does not allow
           limitations on implied warranties or limitations of liability for
@@ -108,34 +108,34 @@ export default component$(() => {
         </div>
         <div>5.-Revisions and Errata</div>
         <div>
-          The materials appearing on PoliticoZen’s Website may include
-          technical, typographical, or photographic errors. PoliticoZen will not
-          promise that any of this website’s materials are accurate, complete,
-          or current. PoliticoZen does not make any commitment to update the
-          materials. PoliticoZen may change the materials on its Website at any
-          time without notice.
+          The materials appearing on Merchlife Website may include technical,
+          typographical, or photographic errors. Merchlife will not promise that
+          any of this website’s materials are accurate, complete, or current.
+          Merchlife does not make any commitment to update the materials.
+          Merchlife may change the materials on its Website at any time without
+          notice.
         </div>
 
         <div>6.-Links</div>
         <div>
-          PoliticoZen has not reviewed all of the sites linked to its Website
-          and is not responsible for the contents of any such linked site. The
-          presence of any link does not imply endorsement by PoliticoZen of the
+          Merchlife has not reviewed all of the sites linked to its Website and
+          is not responsible for the contents of any such linked site. The
+          presence of any link does not imply endorsement by Merchlife of the
           site. The use of any related website is at the user’s own risk.
         </div>
 
         <div>7.-Site Terms of Use Modifications</div>
         <div>
-          PoliticoZen may revise these Terms of Use for its Website without
-          prior notice. By using this Website, you agree to be bound by the
-          current version of these Terms and Conditions of Use.
+          Merchlife may revise these Terms of Use for its Website without prior
+          notice. By using this Website, you agree to be bound by the current
+          version of these Terms and Conditions of Use.
         </div>
 
         <div>8.- Your Privacy</div>
         <div>Please read our Privacy Policy.</div>
         <div>9.- Governing Law</div>
         <div>
-          The laws of ph shall govern any claim related to PoliticoZen’s Website
+          The laws of ph shall govern any claim related to Merchlife Website
           without regard to its conflict of law provisions.
         </div>
       </div>

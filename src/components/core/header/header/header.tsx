@@ -2,7 +2,7 @@ import { component$, useSignal } from "@builder.io/qwik";
 import HeaderLeft from "../header-left/header-left";
 import HeaderRight from "../header-right/header-right";
 import styles from "./header.module.css";
-import { useNavigate } from "@builder.io/qwik-city";
+import { Link, useNavigate } from "@builder.io/qwik-city";
 import { LuMenu } from "@qwikest/icons/lucide";
 export default component$(() => {
   const nav = useNavigate();
@@ -112,16 +112,15 @@ export default component$(() => {
             >
               Collections
             </li>
-            <li
-              style={{
-                cursor: "pointer",
-              }}
-              onClick$={() => {
-                nav("/");
-              }}
-            >
-              <HeaderLeft />
-            </li>
+            <Link prefetch href="/">
+              <li
+                style={{
+                  cursor: "pointer",
+                }}
+              >
+                <HeaderLeft />
+              </li>
+            </Link>
             <li
               style={{
                 cursor: "pointer",
