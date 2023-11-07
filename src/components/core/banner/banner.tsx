@@ -1,6 +1,6 @@
 import { component$ } from "@builder.io/qwik";
-import { Link } from "@builder.io/qwik-city";
-import styles from "./banner.module.css";
+// import { Link } from "@builder.io/qwik-city";
+// import styles from "./banner.module.css";
 
 export default component$(() => {
   return (
@@ -14,9 +14,10 @@ export default component$(() => {
         padding: "48px 32px",
         boxSizing: "border-box",
         justifySelf: "center",
+        height: "95vh",
       }}
     >
-      <div
+      {/* <div
         style={{
           fontSize: "16px",
           backgroundColor: "#ffda79",
@@ -58,7 +59,7 @@ export default component$(() => {
         }}
       >
         Learn How
-      </Link>
+      </Link> */}
     </div>
   );
 });
