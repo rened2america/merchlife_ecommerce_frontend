@@ -31,7 +31,7 @@ export default component$(() => {
           Tu navegador no soporta la etiqueta video.
         </video>
 
-        <div style="position:absolute;top:0;left:0;width:100%;height:100vh;background-color:rgba(0,0,0,0.5);z-index: -1" />
+        <div style="position:absolute;top:0;left:0;width:100%;height:100vh;z-index: -1" />
         <Banner />
         <HomeSearch />
         <SectionArtists />

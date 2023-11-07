@@ -14,7 +14,7 @@ export default component$(() => {
         padding: "48px 32px",
         boxSizing: "border-box",
         justifySelf: "center",
-        height: "95vh",
+        height: "85vh",
       }}
     >
       {/* <div
