@@ -4,7 +4,7 @@ import HomeSearch from "~/components/core/home-search/home-search";
 import SectionArtists from "~/components/core/section-artists/section-artists";
 import SectionInfo from "~/components/core/section-info/section-info";
 import { CartContext } from "~/context/cart";
-import PreviewVideo from "../../public/videos/preview.mp4";
+import PreviewVideo from "../../public/videos/merchlifevideo.mp4";
 export default component$(() => {
   const cart = useStore({
     products: [],
